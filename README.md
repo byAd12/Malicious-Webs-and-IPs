@@ -5,6 +5,9 @@ This report was created with the [VirusTotal](https://virustotal.com) and [Cloud
 # ⚠️ Security Warning
 All of these reports have been created to inform. We are not trying to get you to enter those links, but rather to avoid them.
 
+# How does this works?
+As I analyze domains with the VirusTotal and CLoudfare API, I receive reports that indicate the number of antiviruses that classify it as malicious. If this amount of antivirus is high, the domain is added to the list and each time the updated list is uploaded to this GitHub repository
+
 # Is your webiste here?
 If you see that your website is in this report, it may mean that you have been classified by VirusTotal as malicious.
 But if you want to eliminate this you must clean your website first and then send me an email to remove that report once I reanalyze the domain.
