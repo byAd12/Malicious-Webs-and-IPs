@@ -11,6 +11,6 @@ But if you want to eliminate this you must clean your website first and then sen
 
 # Contact
 - **Email**: adgimenezp@gmail.com
-- **License**: byad12.pages.dev
+- **License**: [byad12.pages.dev](https://byad12.pages.dev)
 
 ### If you use this repository for CyberSecurity or because you just like it, please give it a star to support me.
