@@ -10,6 +10,6 @@ As I analyze domains with the VirusTotal and CLoudfare API, I receive reports th
 
 # Contact
 - **Email**: adgimenezp@gmail.com
-- **License**: [byad12.pages.dev](https://byad12.pages.dev)
+- **Web**: [byad12.pages.dev](https://byad12.pages.dev)
 
-### If you use this repository for CyberSecurity or because you just like it, please give it a star to support me.
+### Give this repository a star to support me.
