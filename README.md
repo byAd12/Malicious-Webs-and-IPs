@@ -12,4 +12,4 @@ As I analyze domains with the VirusTotal and CLoudfare API, I receive reports th
 - **Email**: adgimenezp@gmail.com
 - **Web**: [byad12.pages.dev](https://byad12.pages.dev)
 
-### Give this repository a star to support me.
+### Give this repository a star to support me (you can support via [Patreon](https://www.patreon.com/byAd12) too).
