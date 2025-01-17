@@ -12,5 +12,3 @@ As I analyze domains with the VirusTotal and CLoudfare API, I receive reports th
 - **Email**: adgimenezp@gmail.com
 - **Web**: [byad12.pages.dev](https://byad12.pages.dev)
 - **Patreon**: [patreon.com/byAd12](https://www.patreon.com/byAd12)
-
-### Give this repository a star.
