@@ -2,6 +2,9 @@
 Informe actualizado en [04/08/2025] con dominios marcados como maliciosos en más de 2 antivirus junto con IPS también marcados como maliciosos.
 Este informe fue creado con [Virustotal](https://virustotal.com) y [CloudFare](https://cloudfare.com) **API** en [Python3](https://python.org).
 
+# ¿Qué es?
+Programa en Python3 que usa la API de Cloudflare y VirusTotal para generar un reporte completo sobre una IP (sólo IPv4) o de una página web mediante su DNS. Enseña datos como reportes de confiabilidad de varios antivirus, recursos enlazados, información sobre el nombre de dominio y otras funcionalidades.
+
 # Claves de API
 Este código requiere 2 claves de API para funcionar:
 
