@@ -22,6 +22,12 @@ Este código requiere 2 claves de API para funcionar:
 3. En el código, desde la raíz del proyecto, diríjase a ```./Jsons/key.json```
    Luego tendrás que poner el valor en: ```"VT_key": "AQUÍ"```
 
+# Capturas de pantalla
+<img width="1746" height="976" alt="Captura de pantalla 2025-08-04 210537" src="https://github.com/user-attachments/assets/f4426b9e-9a46-460d-b564-0c74a516d833" />
+<img width="1746" height="976" alt="Captura de pantalla 2025-08-04 210631" src="https://github.com/user-attachments/assets/7f713811-adde-4d03-8f64-747bf7d52f2c" />
+<img width="1746" height="976" alt="Captura de pantalla 2025-08-04 210647" src="https://github.com/user-attachments/assets/4991ec3a-8b0a-44f5-a7a7-252f65991541" />
+<img width="1746" height="976" alt="Captura de pantalla 2025-08-04 210705" src="https://github.com/user-attachments/assets/0f50499b-699e-4140-9f1a-4a14c3c397d6" />
+
 
 # Contacto
 - **Email**: adgimenezp@gmail.com
