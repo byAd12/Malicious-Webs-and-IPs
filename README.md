@@ -1,14 +1,27 @@
-# Malicious Reports of Websites and IPs
-Report updated on [01-31-2024] with domains marked as malicious in more than 2 antiviruses along with IPs also marked as malicious.
-This report was created with the [VirusTotal](https://virustotal.com) and [Cloudfare](https://cloudfare.com) **API** in [Python](https://python.org).
+# Malicious-Webs-and-IPs
+Informe actualizado en [04/08/2025] con dominios marcados como maliciosos en más de 2 antivirus junto con IPS también marcados como maliciosos.
+Este informe fue creado con [Virustotal](https://virustotal.com) y [CloudFare](https://cloudfare.com) **API** en [Python3](https://python.org).
 
-# ⚠️ Security Warning
-All of these reports have been created to inform. We are not trying to get you to enter those links, but rather to avoid them.
+# Claves de API
+Este código requiere 2 claves de API para funcionar:
 
-# How does this works?
-As I analyze domains with the VirusTotal and CLoudfare API, I receive reports that indicate the number of antiviruses that classify it as malicious. If this amount of antivirus is high, the domain is added to the list and each time the updated list is uploaded to this GitHub repository
+## [CloudFlare](https://developers.cloudflare.com/fundamentals/api/get-started/account-owned-tokens/)
 
-# Contact
+1. Visite: https://dash.cloudflare.com/profile/api-tokens
+2. En "Claves de API" > "Global API Key" > "Ver"
+3. Pedirá credenciales y luego lo tendrás que copiar al portapapeles
+4. En el código, desde la raíz del proyecto, diríjase a ```./Jsons/key.json```
+   Luego tendrás que poner el valor en: ```"CLDF_key": "AQUÍ"```
+
+## [VirusTotal](https://docs.virustotal.com/docs/please-give-me-an-api-key)
+
+1. Tendrás que acceder al menú desplegable de la [página principal](https://www.virustotal.com/) y pulsar en "API Key"
+2. En el apartado de "API Key" tendrás que copiarlo la llave que aparece en el portapapeles
+3. En el código, desde la raíz del proyecto, diríjase a ```./Jsons/key.json```
+   Luego tendrás que poner el valor en: ```"VT_key": "AQUÍ"```
+
+
+# Contacto
 - **Email**: adgimenezp@gmail.com
 - **Web**: [byad12.pages.dev](https://byad12.pages.dev)
 - **Patreon**: [patreon.com/byAd12](https://www.patreon.com/byAd12)
