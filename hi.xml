@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report>
+  <ip>
+    <entry id="001">1.1.1.1</entry>
+    <entry id="002">2.1.1.1</entry>
+    <entry id="003">3.1.1.1</entry>
+    <entry id="004">4.1.1.1</entry>
+  </ip>
+  <web>
+    <entry id="001">a.py</entry>
+    <entry id="001">a.lol</entry>
+  </web>
+</report>
